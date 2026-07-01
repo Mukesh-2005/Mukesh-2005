@@ -44,7 +44,7 @@ mukesh = {
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="Center">
 
 ### 🐍 Languages & ML
 <img src="https://skillicons.dev/icons?i=python,mysql" />
@@ -147,7 +147,6 @@ mukesh = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mukesh-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="[![trophy](https://github-profile-trophy.vercel.app/?username=Mukesh-2005&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)" />
 </div>
 
 <div align="center">
