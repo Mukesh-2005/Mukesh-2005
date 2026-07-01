@@ -172,6 +172,7 @@ mukesh = {
 
 - 🏅 **Machine Learning with Python** — IBM / Coursera
 - 🏅 **Databases & SQL for Data Science** — IBM / Coursera
+- 🏅 **IBM PROFESSIONAL DATA SCIENCE CERTIFICATE** — IBM / Coursera
 
 ---
 
