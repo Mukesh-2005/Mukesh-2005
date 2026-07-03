@@ -21,7 +21,7 @@ mukesh = {
     "education" : "B.Sc Data Science @ MSU (2023–2026)",
     "email"     : "starmukesh2005@gmail.com",
     "kaggle"    : "Top 34% — Spaceship Titanic",
-    "focus"     : ["Predictive Modeling", "REST APIs", "Feature Engineering"],
+    "focus"     : ["ML Engineering", "REST APIs", "Full-Stack Development", "Feature Engineering"],
     "learning"  : ["PyTorch", "Computer Vision", "NLP", "Docker"],
     "open_to"   : ["Full-time Roles", "Internships", "Collaborations"],
 }
@@ -32,9 +32,9 @@ mukesh = {
 
 - 🔬 I build **end-to-end ML pipelines** — from raw data to production APIs
 - 🏆 Ranked **790 / 2,300** on Kaggle (Spaceship Titanic, Top 34%)
-- 📡 Shipped **3 REST APIs** with FastAPI, JWT auth, and Swagger docs
+- 📡 Shipped **4 REST APIs** with FastAPI, JWT auth, Swagger docs, and production deployment
 - 🎯 Certified in **ML with Python** & **Databases & SQL** by IBM / Coursera
-- 💬 Ask me about `Scikit-learn`, `FastAPI`, `Feature Engineering`, or `SQL`
+- 💬 Ask me about `Scikit-learn`, `FastAPI`, `Feature Engineering`, `SQL`, or `REST APIs`
 
 <br clear="all"/>
 
@@ -42,59 +42,62 @@ mukesh = {
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" align="Center">
+<div align="center">
 
-### 🐍 Languages & ML
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-<br/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/LightGBM-02B159?style=flat-square&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white"/>
-
-</td>
-<td width="50%" align="center">
-
-### ⚙️ Backend & APIs
-<img src="https://skillicons.dev/icons?i=fastapi,postman" />
-<br/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=sqlite,postgresql" />
-
-</td>
-<td width="50%" align="center">
-
-### 🧰 Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-<br/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-
-</td>
-</tr>
+<table width="80%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🐍 Languages & ML</h3>
+      <img src="https://skillicons.dev/icons?i=python,mysql" /><br/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LightGBM-02B159?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend & APIs</h3>
+      <img src="https://skillicons.dev/icons?i=fastapi,postman" /><br/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=rest&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=sqlite,postgresql" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🧰 Tools & Environment</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /><br/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
----
+</div>
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%">
+
+### 🌐 [Social Media API](https://github.com/Mukesh-2005/social_media_api)
+> **45+ Endpoints · Live Demo · Production-Ready**
+
+- **🔗 Live Demo:** https://social-media-api-ispt.onrender.com/docs
+- Twitter-like REST API: users, posts, comments, follows, smart feeds
+- 5-table relational schema with complex SQL queries (JOINs, GROUP BY, aggregations)
+- Features: personalized feeds, trending posts, user engagement metrics
+- **Deployed on Render** with SQLite — $0 cost, fully production-grade
+- `FastAPI` `SQLAlchemy` `SQLite` `REST API` `Swagger UI` `Production`
+
+</td>
 <td width="50%">
 
 ### 🏅 [Spaceship Titanic — Kaggle](https://github.com/Mukesh-2005)
@@ -106,6 +109,8 @@ mukesh = {
 - `XGBoost` `LightGBM` `Scikit-learn` `Feature Engineering`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🧬 Obesity Risk Prediction (Multi-Class)
@@ -116,8 +121,6 @@ mukesh = {
 - `Scikit-learn` `Pandas` `NumPy` `Model Comparison`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🔐 [Task Manager API](https://github.com/Mukesh-2005/Task_Manager_API)
@@ -128,6 +131,8 @@ mukesh = {
 - `FastAPI` `SQLite` `JWT` `Pydantic` `async/await`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📚 [Library Book Management API](https://github.com/Mukesh-2005/book-library-api)
@@ -138,6 +143,9 @@ mukesh = {
 - `FastAPI` `SQLite` `SQLAlchemy` `Swagger UI`
 
 </td>
+<td width="50%">
+
+</td>
 </tr>
 </table>
 
@@ -146,11 +154,10 @@ mukesh = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mukesh-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</div>
+  
+![GitHub followers](https://img.shields.io/github/followers/Mukesh-2005?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Mukesh-2005?style=social)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mukesh-2005&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -178,6 +185,9 @@ mukesh = {
 ## 🌐 Connect With Me
 
 <div align="center">
+  <a href="https://social-media-api-ispt.onrender.com/docs">
+    <img src="https://img.shields.io/badge/Live_API-00D4FF?style=for-the-badge&logo=rocket&logoColor=white"/>
+  </a>
   <a href="mailto:starmukesh2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
