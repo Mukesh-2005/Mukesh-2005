@@ -100,7 +100,7 @@ mukesh = {
 </td>
 <td width="50%">
 
-### 🏅 [Spaceship Titanic — Kaggle]([https://github.com/Mukesh-2005](https://github.com/Mukesh-2005/Task_Manager_API))
+### 🏅 [Spaceship Titanic — Kaggle]
 > **🥇 Ranked 790 / 2,300 · Top 34% · 80.2% Accuracy**
 
 - Feature engineering: Age + Cabin combos, 5-amenity spending patterns
@@ -113,7 +113,7 @@ mukesh = {
 <tr>
 <td width="50%">
 
-### 🧬 Obesity Risk Prediction (Multi-Class)
+### 🧬 [Diabetes Risk Prediction (Multi-Class)](https://github.com/Mukesh-2005/diabetes-prediction-api)
 > **🎯 92.2% Accuracy · 7 Categories · 2,000+ Records**
 
 - Compared **OvA, OvO, Multinomial** strategies — best log-loss: 0.427
@@ -123,7 +123,7 @@ mukesh = {
 </td>
 <td width="50%">
 
-### 🔐 [Task Manager API](https://github.com/Mukesh-2005/Task_Manager_API)
+### 🔐 [Task Manager API](https://github.com/Mukesh-2005/Task_Manager_API) 
 > **Production-ready REST API with JWT Auth**
 
 - Role-based access control + password hashing
@@ -135,12 +135,14 @@ mukesh = {
 <tr>
 <td width="50%">
 
-### 📚 [Library Book Management API](https://github.com/Mukesh-2005/book-library-api)
-> **500+ Books · Borrowing System · Swagger Docs**
+### 📚 [Coursera_Data_Science_Laps](https://github.com/Mukesh-2005/Coursera-ML-Labs)
+> **30+ Hands on Experienced laps · LIVE DEMO**
 
-- 3-table relational schema (books, users, borrowings)
-- Advanced search: author, genre, availability + pagination
-- `FastAPI` `SQLite` `SQLAlchemy` `Swagger UI`
+- Supervised Learning(Classificiaton, Regression)
+- Unsupervised Learning(PCA, K-Means, DBSCAN)
+- Regression -- Evaluation Metrics(R2_Error, MSE, RMSE, etc.,)
+- Classification -- Evaluation Metrics(Acuracy, Precision, Recall, F1_score and more)
+- `Data science` `Coursera-Machine-Learning` 
 
 </td>
 <td width="50%">
