@@ -87,7 +87,7 @@ mukesh = {
 <tr>
 <td width="50%">
 
-### 🌐 [Social Media API](https://github.com/Mukesh-2005/social_media_api)
+### 🌐 [Social Media API](https://github.com/Mukesh-2005/Social-Media-API-)
 > **45+ Endpoints · Live Demo · Production-Ready**
 
 - **🔗 Live Demo:** https://social-media-api-ispt.onrender.com/docs
