@@ -100,7 +100,7 @@ mukesh = {
 </td>
 <td width="50%">
 
-### 🏅 [Spaceship Titanic — Kaggle](https://github.com/Mukesh-2005)
+### 🏅 [Spaceship Titanic — Kaggle]([https://github.com/Mukesh-2005](https://github.com/Mukesh-2005/Task_Manager_API))
 > **🥇 Ranked 790 / 2,300 · Top 34% · 80.2% Accuracy**
 
 - Feature engineering: Age + Cabin combos, 5-amenity spending patterns
