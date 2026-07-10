@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 ```python
-mukesh = {
+Mukesh = {
     "role"      : "Data Scientist & ML Engineer",
     "location"  : "Tenkasi, Tamil Nadu 🇮🇳",
     "education" : "B.Sc Data Science @ MSU (2023–2026)",
