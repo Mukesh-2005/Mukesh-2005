@@ -3,83 +3,47 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Real+Decisions;ML+Engineer+%7C+API+Builder+%7C+Kaggle+Competitor;B.Sc+Data+Science+%40+MSU+%7C+2026;Python+%7C+SQL+%7C+FastAPI+%7C+Scikit-learn" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+ML+Models+That+Solve+Real+Problems;Data+Scientist+%7C+ML+Engineer+%7C+Kaggler;B.Sc+Data+Science+%40+MSU;Python+%7C+PyTorch+%7C+YOLOv8+%7C+Scikit-learn" alt="Typing SVG" />
   </a>
 </div>
 
-<br/>
+---
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-## 👨‍💻 About Me
+## 🎯 About Me
 
 ```python
 Mukesh = {
-    "role"      : "Data Scientist & ML Engineer",
-    "location"  : "Tenkasi, Tamil Nadu 🇮🇳",
-    "education" : "B.Sc Data Science @ MSU (2023–2026)",
-    "email"     : "starmukesh2005@gmail.com",
-    "kaggle"    : "Top 34% — Spaceship Titanic",
-    "focus"     : ["ML Engineering", "REST APIs", "Full-Stack Development", "Feature Engineering"],
-    "learning"  : ["PyTorch", "Computer Vision", "NLP", "Docker"],
-    "open_to"   : ["Full-time Roles", "Internships", "Collaborations"],
+    "role"         : "Data Scientist & ML Engineer",
+    "location"     : "Tenkasi, Tamil Nadu 🇮🇳",
+    "education"    : "B.Sc Data Science @ MSU (2023–2026)",
+    "email"        : "starmukesh2005@gmail.com",
+    "linkedin"     : "linkedin.com/in/mukesh-k-6899902b7/",
+    "github"       : "github.com/Mukesh-2005",
+    
+    "expertise"    : [
+        "Object Detection (YOLO)",
+        "Ensemble Learning",
+        "Feature Engineering",
+        "Data Science Pipeline",
+        "REST APIs"
+    ],
+    
+    "learning"     : ["Computer Vision", "NLP", "PyTorch", "Production ML"],
+    "open_to"      : ["Full-time Data Science", "ML Internships", "Collaborations"],
 }
 ```
 
-<br/>
-<br/>
-
-- 🔬 I build **end-to-end ML pipelines** — from raw data to production APIs
-- 🏆 Ranked **790 / 2,300** on Kaggle (Spaceship Titanic, Top 34%)
-- 📡 Shipped **4 REST APIs** with FastAPI, JWT auth, Swagger docs, and production deployment
-- 🎯 Certified in **ML with Python** & **Databases & SQL** by IBM / Coursera
-- 💬 Ask me about `Scikit-learn`, `FastAPI`, `Feature Engineering`, `SQL`, or `REST APIs`
-
-<br clear="all"/>
-
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Highlights
 
-<div align="center">
+- 🥇 **Kaggle Spaceship Titanic** — Ranked **790 / 2,300** (Top 34%) | **80.2% Accuracy**
+- 🤖 **Traffic Vehicle Detection** — **mAP50: 0.749** | Real-time inference (4.2ms) | 6.9x improvement
+- 🎓 **IBM Professional Data Science Certificate** — 5-course specialization (Coursera) ✅
+- 🎯 **End-to-End Projects** — Data prep → Model training → Production deployment
 
-<table width="80%">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🐍 Languages & ML</h3>
-      <img src="https://skillicons.dev/icons?i=python,mysql" /><br/>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LightGBM-02B159?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>⚙️ Backend & APIs</h3>
-      <img src="https://skillicons.dev/icons?i=fastapi,postman" /><br/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=rest&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=sqlite,postgresql" />
-    </td>
-    <td align="center" width="50%">
-      <h3>🧰 Tools & Environment</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /><br/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-</div>
+---
 
 ## 🚀 Featured Projects
 
@@ -87,65 +51,143 @@ Mukesh = {
 <tr>
 <td width="50%">
 
-### 🌐 [Social Media API](https://github.com/Mukesh-2005/Social-Media-API-)
-> **45+ Endpoints · Live Demo · Production-Ready**
+### 🚗 Traffic Vehicle Detection ⭐ FEATURED
+**Real-time Object Detection for Indian Traffic**
 
-- **🔗 Live Demo:** https://social-media-api-ispt.onrender.com/docs
-- Twitter-like REST API: users, posts, comments, follows, smart feeds
-- 5-table relational schema with complex SQL queries (JOINs, GROUP BY, aggregations)
-- Features: personalized feeds, trending posts, user engagement metrics
-- **Deployed on Render** with SQLite — $0 cost, fully production-grade
-- `FastAPI` `SQLAlchemy` `SQLite` `REST API` `Swagger UI` `Production`
+- **Model:** YOLOv8s
+- **mAP50:** 0.749 ✓
+- **Inference:** 4.2ms (real-time!)
+- **Dataset:** 1,300 perfectly balanced images
+- **Achievement:** 6.9x improvement by fixing data imbalance (6.2:1 → 1:1)
+
+**Performance by Class:**
+- Car: 0.762 ✓
+- Bus: 0.880 ⭐ (Best)
+- Truck: 0.634
+- Motorcycle: 0.677
+- Auto-rickshaw: 0.795
+
+**Key Learning:** Data quality > Model complexity
+
+**Tech:** YOLOv8 | PyTorch | Python | Colab
+
+🔗 [GitHub Repo](https://github.com/Mukesh-2005/traffic-vehicle-detection) | [Demo Video](https://github.com/Mukesh-2005/traffic-vehicle-detection/releases) | [Writeup](https://github.com/Mukesh-2005/traffic-vehicle-detection)
 
 </td>
 <td width="50%">
 
-### 🏅 [Spaceship Titanic — Kaggle]
-> **🥇 Ranked 790 / 2,300 · Top 34% · 80.2% Accuracy**
+### 🏆 Kaggle Spaceship Titanic
+**Multi-Class Prediction — Top 34%**
 
-- Feature engineering: Age + Cabin combos, 5-amenity spending patterns
-- Ensemble: **Random Forest + XGBoost + LightGBM** with grid search
-- 5-fold cross-validation to prevent overfitting
-- `XGBoost` `LightGBM` `Scikit-learn` `Feature Engineering`
+- **Rank:** 790 / 2,300
+- **Accuracy:** 80.2%
+- **Model:** Ensemble (RF + XGBoost + LightGBM)
+- **Dataset:** 2,300+ records
+
+**Approach:**
+- Advanced feature engineering
+- Age + Cabin combinations
+- Spending pattern analysis
+- Grid search optimization
+- 5-fold cross-validation
+
+**Tech:** Scikit-learn | XGBoost | LightGBM | Pandas | NumPy
+
+🔗 [Kaggle Notebook](https://www.kaggle.com/mukesh2005)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🧬 [Diabetes Risk Prediction (Multi-Class)](https://github.com/Mukesh-2005/diabetes-prediction-api)
-> **🎯 92.2% Accuracy · 7 Categories · 2,000+ Records**
+### 💬 Social Media API
+**Production-Ready REST API — 45+ Endpoints**
 
-- Compared **OvA, OvO, Multinomial** strategies — best log-loss: 0.427
-- Stratified split + standardization + one-hot encoding
-- `Scikit-learn` `Pandas` `NumPy` `Model Comparison`
+- **Status:** 🟢 Live & Running
+- **URL:** https://social-media-api-ispt.onrender.com/docs
+- **Features:** Posts, comments, followers, smart feeds, trends
+- **Database:** 5-table relational schema with complex SQL
+- **Deployment:** Render (production-grade, $0 cost)
+
+**Endpoints:**
+- User management (CRUD)
+- Post creation & engagement
+- Follow system
+- Personalized feeds
+- Trending algorithms
+
+**Tech:** FastAPI | SQLAlchemy | SQLite | JWT | Pydantic
+
+🔗 [GitHub Repo](https://github.com/Mukesh-2005/social_media_api)
 
 </td>
 <td width="50%">
 
-### 🔐 [Task Manager API](https://github.com/Mukesh-2005/Task_Manager_API) 
-> **Production-ready REST API with JWT Auth**
+### 🧬 Diabetes Risk Prediction
+**Medical Classification — 92.2% Accuracy**
 
-- Role-based access control + password hashing
-- CRUD with **SQLAlchemy ORM**, priority/date filters
-- `FastAPI` `SQLite` `JWT` `Pydantic` `async/await`
+- **Accuracy:** 92.2%
+- **Classes:** 7 risk categories
+- **Dataset:** 2,000+ medical records
+- **Best Model Log-Loss:** 0.427
+
+**Methodology:**
+- Compared OvA, OvO, Multinomial
+- Stratified cross-validation
+- Feature scaling & encoding
+- Class imbalance handling
+
+**Tech:** Scikit-learn | Pandas | NumPy
+
+🔗 [GitHub Repo](https://github.com/Mukesh-2005/diabetes-prediction-api)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 📚 [Coursera_Data_Science_Laps](https://github.com/Mukesh-2005/Coursera-ML-Labs)
-> **30+ Hands on Experienced laps · LIVE DEMO**
+### 🔐 Task Manager API
+**Role-Based Access Control**
 
-- Supervised Learning(Classificiaton, Regression)
-- Unsupervised Learning(PCA, K-Means, DBSCAN)
-- Regression -- Evaluation Metrics(R2_Error, MSE, RMSE, etc.,)
-- Classification -- Evaluation Metrics(Acuracy, Precision, Recall, F1_score and more)
-- `Data science` `Coursera-Machine-Learning` 
+- **Auth:** JWT token-based
+- **Security:** Password hashing
+- **Features:** CRUD, permissions, filtering
+- **Database:** SQLite with ORM
+
+**Capabilities:**
+- User authentication
+- Role-based access
+- Task management
+- Priority filtering
+- Date-based sorting
+
+**Tech:** FastAPI | SQLAlchemy | JWT | Pydantic
+
+🔗 [GitHub Repo](https://github.com/Mukesh-2005/Task_Manager_API)
 
 </td>
 <td width="50%">
+
+### 📚 Coursera Data Science Labs
+**30+ Hands-On ML Projects**
+
+- **Topics:** Supervised & Unsupervised Learning
+- **Algorithms:** Classification, Regression, Clustering
+- **Metrics:** Accuracy, Precision, Recall, F1, AUC-ROC, MSE, RMSE
+- **Models:** Decision Trees, SVM, KNN, Linear Regression, K-Means, PCA, DBSCAN
+
+**Coverage:**
+- Data preprocessing
+- Feature scaling & selection
+- Model evaluation
+- Hyperparameter tuning
+- Cross-validation
+
+**Tech:** Scikit-learn | Matplotlib | Seaborn | Pandas
+
+🔗 [GitHub Repo](https://github.com/Mukesh-2005/Coursera-ML-Labs)
 
 </td>
 </tr>
@@ -153,12 +195,88 @@ Mukesh = {
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/Mukesh-2005?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Mukesh-2005?style=social)
+
+### 🐍 Languages & ML Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,mysql" /><br/>
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM-02B159?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-4285F4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+---
+
+### ⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,postman" /><br/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logoColor=white"/>
+
+---
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=sqlite,postgresql,mysql" /><br/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+---
+
+### 🧰 Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" /><br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/Mukesh-2005?style=social&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/Mukesh-2005?style=social&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=Mukesh-2005&style=flat-square&color=00D4FF)
+
+</div>
+
+---
+
+## 🎓 Certifications & Education
+
+<div align="center">
+
+| **Certification** | **Organization** | **Status** |
+|:---|:---|:---:|
+| 🏅 IBM Professional Data Science Certificate | IBM / Coursera | ✅ Completed |
+| 🏅 Machine Learning with Python | IBM / Coursera | ✅ Completed |
+| 🏅 Databases & SQL for Data Science | IBM / Coursera | ✅ Completed |
+| 📚 B.Sc Data Science | Manonmaniam Sundaranar University | ✅ Completed |
+| 🥇 Kaggle - Spaceship Titanic | Kaggle | 🏆 Top 34% |
 
 </div>
 
@@ -168,45 +286,68 @@ Mukesh = {
 
 <div align="center">
 
-| 🔥 Deep Learning | 👁️ Computer Vision | 🗣️ NLP | 🐳 Docker |
-|:---:|:---:|:---:|:---:|
-| PyTorch | OpenCV | Transformers | Containerization |
+| **Area** | **Focus** |
+|:---:|:---|
+| 👁️ **Computer Vision** | Advanced YOLO, OpenCV, Image Processing |
+| 🗣️ **NLP** | Transformers, LLMs, Text Classification |
+| 🧠 **Deep Learning** | Advanced PyTorch, Neural Architecture Design |
+| 🐳 **DevOps** | Docker, Kubernetes, CI/CD Pipelines |
 
 </div>
 
 ---
 
-## 🎓 Certifications
+## 💡 Data Science Philosophy
 
-- 🏅 **Machine Learning with Python** — IBM / Coursera
-- 🏅 **Databases & SQL for Data Science** — IBM / Coursera
-- 🏅 **IBM PROFESSIONAL DATA SCIENCE CERTIFICATE** — IBM / Coursera
+> **Data Quality > Model Complexity**
+
+My core principles:
+- ✅ **EDA First** — Understand data before modeling
+- ✅ **Fix Imbalance Early** — Balance classes before upgrading models
+- ✅ **Feature Engineering > Model Size** — Smart features beat complex models
+- ✅ **End-to-End Thinking** — Production-ready from day one
+- ✅ **Iterate & Validate** — Cross-validation, not lucky splits
+
+**Real Example:** Traffic Detection
+- Initial: 0.108 mAP50 (broken model)
+- Root Cause: 6.2:1 class imbalance, not model
+- Solution: Fixed data (1:1 balance)
+- Result: 0.749 mAP50 (6.9x improvement!)
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://social-media-api-ispt.onrender.com/docs">
-    <img src="https://img.shields.io/badge/Live_API-00D4FF?style=for-the-badge&logo=rocket&logoColor=white"/>
-  </a>
-  <a href="mailto:starmukesh2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mukesh-k-6899902b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Mukesh-2005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/📍_Tenkasi,_Tamil_Nadu-1e1e2e?style=for-the-badge"/>
+
+| **Platform** | **Link** |
+|:---:|:---|
+| 💼 **LinkedIn** | [linkedin.com/in/mukesh-k](https://www.linkedin.com/in/mukesh-k-6899902b7/) |
+| 💻 **GitHub** | [github.com/Mukesh-2005](https://github.com/Mukesh-2005) |
+| 📧 **Email** | starmukesh2005@gmail.com |
+| 🔗 **Live API** | [Social Media API Demo](https://social-media-api-ispt.onrender.com/docs) |
+| 🚗 **Traffic Detection** | [GitHub Repo](https://github.com/Mukesh-2005/traffic-vehicle-detection) |
+
 </div>
 
-<br/>
+---
+
+## 📊 Project Quality Metrics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mukesh-2005&style=flat-square&color=00D4FF" alt="Profile Views"/>
+
+| Project | Type | Performance | Status |
+|:---|:---|:---:|:---:|
+| 🚗 Traffic Vehicle Detection | Computer Vision | mAP50: 0.749 | ✅ Production |
+| 🏆 Kaggle Spaceship Titanic | Classification | Accuracy: 80.2% | ✅ Completed |
+| 💬 Social Media API | Backend | 45+ Endpoints | 🟢 Live |
+| 🧬 Diabetes Prediction | Classification | Accuracy: 92.2% | ✅ Completed |
+| 🔐 Task Manager API | Backend | JWT + Role-Based | ✅ Completed |
+| 📚 Data Science Labs | Educational | 30+ Projects | ✅ Completed |
+
 </div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
