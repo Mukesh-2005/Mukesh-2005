@@ -40,7 +40,7 @@ Mukesh = {
 
 - 🥇 **Kaggle Spaceship Titanic** — Ranked **790 / 2,300** (Top 34%) | **80.2% Accuracy**
 - 🤖 **Traffic Vehicle Detection** — **mAP50: 0.749** | Real-time inference (4.2ms) | 6.9x improvement
-- 🎓 **IBM Professional Data Science Certificate** — 5-course specialization (Coursera) ✅
+- 🎓 **IBM Professional Data Science Certificate** — 12-course specialization (Coursera) ✅
 - 🎯 **End-to-End Projects** — Data prep → Model training → Production deployment
 
 ---
