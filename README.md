@@ -95,7 +95,7 @@ Mukesh = {
 
 **Tech:** Scikit-learn | TF-IDF | Python | Pandas | Joblib
 
-🔗 [GitHub Repo](https://github.com/Mukesh-2005/ticket-routing-nlp-classifier)
+🔗 [GitHub Repo](https://github.com/Mukesh-2005/Ticket-Categorizer)
 
 </td>
 </tr>
@@ -334,7 +334,7 @@ My core principles:
 | 📧 **Email** | starmukesh2005@gmail.com |
 | 🔗 **Live API** | [Social Media API Demo](https://social-media-api-ispt.onrender.com/docs) |
 | 🚗 **Traffic Detection** | [GitHub Repo](https://github.com/Mukesh-2005/traffic-vehicle-detection) |
-| 🎫 **Ticket Routing NLP** | [GitHub Repo](https://github.com/Mukesh-2005/ticket-routing-nlp-classifier) |
+| 🎫 **Ticket Routing NLP** | [GitHub Repo](https://github.com/Mukesh-2005/Ticket-Categorizer) |
 
 </div>
 
