@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+ML+Models+That+Solve+Real+Problems;Data+Scientist+%7C+ML+Engineer+%7C+Kaggler;B.Sc+Data+Science+%40+MSU;Python+%7C+PyTorch+%7C+YOLOv8+%7C+Scikit-learn" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+ML+Models+That+Solve+Real+Problems;Data+Scientist+%7C+ML+Engineer+%7C+NLP+Enthusiast;B.Sc+Data+Science+%40+MSU;Python+%7C+PyTorch+%7C+YOLOv8+%7C+Scikit-learn" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,13 +23,14 @@ Mukesh = {
     
     "expertise"    : [
         "Object Detection (YOLO)",
+        "NLP / Text Classification",
         "Ensemble Learning",
         "Feature Engineering",
         "Data Science Pipeline",
         "REST APIs"
     ],
     
-    "learning"     : ["Computer Vision", "NLP", "PyTorch", "Production ML"],
+    "learning"     : ["Computer Vision", "Transformers / LLMs", "PyTorch", "Production ML"],
     "open_to"      : ["Full-time Data Science", "ML Internships", "Collaborations"],
 }
 ```
@@ -38,8 +39,8 @@ Mukesh = {
 
 ## 🏆 Highlights
 
-- 🥇 **Kaggle Spaceship Titanic** — Ranked **790 / 2,300** (Top 34%) | **80.2% Accuracy**
 - 🤖 **Traffic Vehicle Detection** — **mAP50: 0.749** | Real-time inference (4.2ms) | 6.9x improvement
+- 🎫 **Automated Ticket Routing System** — TF-IDF + Logistic Regression NLP classifier | 80% test accuracy | production-style confidence triage
 - 🎓 **IBM Professional Data Science Certificate** — 12-course specialization (Coursera) ✅
 - 🎯 **End-to-End Projects** — Data prep → Model training → Production deployment
 
@@ -76,24 +77,25 @@ Mukesh = {
 </td>
 <td width="50%">
 
-### 🏆 Kaggle Spaceship Titanic
-**Multi-Class Prediction — Top 34%**
+### 🎫 Automated Ticket Routing System ⭐ FEATURED
+**NLP Classifier — Production-Style Triage**
 
-- **Rank:** 790 / 2,300
-- **Accuracy:** 80.2%
-- **Model:** Ensemble (RF + XGBoost + LightGBM)
-- **Dataset:** 2,300+ records
+- **Model:** TF-IDF + Logistic Regression
+- **Test Accuracy:** 80% | Macro F1: 0.79
+- **Classes:** 4 departments (Billing, Technical, HR, General)
+- **Diagnosed Failure:** Fixed an HR-class 0% recall bug by identifying vocabulary overlap and rewriting training data
 
-**Approach:**
-- Advanced feature engineering
-- Age + Cabin combinations
-- Spending pattern analysis
-- Grid search optimization
-- 5-fold cross-validation
+**Production Features:**
+- Confidence-based "needs human review" threshold (0.60)
+- Keyword-based urgent/normal priority tagging
+- Interactive CLI demo for live ticket testing
+- Feedback loop scaffolding for future retraining
 
-**Tech:** Scikit-learn | XGBoost | LightGBM | Pandas | NumPy
+**Key Learning:** Model architecture was correct from the start — the real fix was diagnosing *why* a class had zero signal in the data, not just tuning hyperparameters
 
-🔗 [Kaggle Notebook](https://www.kaggle.com/mukesh2005)
+**Tech:** Scikit-learn | TF-IDF | Python | Pandas | Joblib
+
+🔗 [GitHub Repo](https://github.com/Mukesh-2005/ticket-routing-nlp-classifier)
 
 </td>
 </tr>
@@ -276,7 +278,6 @@ Mukesh = {
 | 🏅 Machine Learning with Python | IBM / Coursera | ✅ Completed |
 | 🏅 Databases & SQL for Data Science | IBM / Coursera | ✅ Completed |
 | 📚 B.Sc Data Science | Manonmaniam Sundaranar University | ✅ Completed |
-| 🥇 Kaggle - Spaceship Titanic | Kaggle | 🏆 Top 34% |
 
 </div>
 
@@ -289,7 +290,7 @@ Mukesh = {
 | **Area** | **Focus** |
 |:---:|:---|
 | 👁️ **Computer Vision** | Advanced YOLO, OpenCV, Image Processing |
-| 🗣️ **NLP** | Transformers, LLMs, Text Classification |
+| 🗣️ **NLP** | Transformers, LLMs, RAG Systems |
 | 🧠 **Deep Learning** | Advanced PyTorch, Neural Architecture Design |
 | 🐳 **DevOps** | Docker, Kubernetes, CI/CD Pipelines |
 
@@ -308,11 +309,17 @@ My core principles:
 - ✅ **End-to-End Thinking** — Production-ready from day one
 - ✅ **Iterate & Validate** — Cross-validation, not lucky splits
 
-**Real Example:** Traffic Detection
+**Real Example 1 — Traffic Detection:**
 - Initial: 0.108 mAP50 (broken model)
 - Root Cause: 6.2:1 class imbalance, not model
 - Solution: Fixed data (1:1 balance)
 - Result: 0.749 mAP50 (6.9x improvement!)
+
+**Real Example 2 — Ticket Routing NLP:**
+- Initial: HR class at 0% precision and recall
+- Root Cause: Generic training phrasing overlapping with other classes, not the model
+- Solution: Rewrote HR examples with domain-distinctive vocabulary
+- Result: HR precision 0% → 85.7%
 
 ---
 
@@ -327,6 +334,7 @@ My core principles:
 | 📧 **Email** | starmukesh2005@gmail.com |
 | 🔗 **Live API** | [Social Media API Demo](https://social-media-api-ispt.onrender.com/docs) |
 | 🚗 **Traffic Detection** | [GitHub Repo](https://github.com/Mukesh-2005/traffic-vehicle-detection) |
+| 🎫 **Ticket Routing NLP** | [GitHub Repo](https://github.com/Mukesh-2005/ticket-routing-nlp-classifier) |
 
 </div>
 
@@ -339,7 +347,7 @@ My core principles:
 | Project | Type | Performance | Status |
 |:---|:---|:---:|:---:|
 | 🚗 Traffic Vehicle Detection | Computer Vision | mAP50: 0.749 | ✅ Production |
-| 🏆 Kaggle Spaceship Titanic | Classification | Accuracy: 80.2% | ✅ Completed |
+| 🎫 Ticket Routing NLP | NLP / Text Classification | Accuracy: 80% | ✅ Completed |
 | 💬 Social Media API | Backend | 45+ Endpoints | 🟢 Live |
 | 🧬 Diabetes Prediction | Classification | Accuracy: 92.2% | ✅ Completed |
 | 🔐 Task Manager API | Backend | JWT + Role-Based | ✅ Completed |
