@@ -121,7 +121,7 @@ Mukesh = {
 
 **Tech:** FastAPI | SQLAlchemy | SQLite | JWT | Pydantic
 
-🔗 [GitHub Repo](https://github.com/Mukesh-2005/social_media_api)
+🔗 [GitHub Repo](https://github.com/Mukesh-2005/Social-Media-API-)
 
 </td>
 <td width="50%">
