@@ -39,6 +39,7 @@ Mukesh = {
 
 ## 🏆 Highlights
 
+- 🏥 **Canonical Medical Record FHIR Pipeline** — **113 FHIR R4 resources** | 100% validation pass | End-to-end medical data structuring
 - 🤖 **Traffic Vehicle Detection** — **mAP50: 0.749** | Real-time inference (4.2ms) | 6.9x improvement
 - 🎫 **Automated Ticket Routing System** — TF-IDF + Logistic Regression NLP classifier | 80% test accuracy | production-style confidence triage
 - 🎓 **IBM Professional Data Science Certificate** — 12-course specialization (Coursera) ✅
@@ -50,6 +51,31 @@ Mukesh = {
 
 <table>
 <tr>
+<td width="50%">
+
+### 🏥 Canonical Medical Record FHIR Pipeline ⭐ LATEST
+**End-to-End FHIR R4 Structuring for Multi-Document Medical Records**
+
+- **Result:** 113 FHIR R4 resources
+- **Validation:** 100% FHIR R4 compliant
+- **Extraction:** 98 medical facts (45 conditions + 17 meds + 36 labs)
+- **Stages:** 7-stage pipeline with provenance tracking
+- **Achievement:** Production-grade data integrity + reproducibility
+
+**7 Stages:**
+1. Page classification
+2. Content extraction
+3. Entity extraction (Claude AI)
+4. Terminology normalization (100% mapped)
+5. FHIR construction + validation
+6. SQLite persistence + 5 queries
+7. Provenance tracking
+
+**Tech:** Python | Claude API | FHIR R4 | SQLite | Pydantic | PyPDF
+
+🔗 [GitHub Repo](https://github.com/Mukesh-2005/project-3-fhir-pipeline)
+
+</td>
 <td width="50%">
 
 ### 🚗 Traffic Vehicle Detection ⭐ FEATURED
@@ -75,6 +101,9 @@ Mukesh = {
 🔗 [GitHub Repo](https://github.com/Mukesh-2005/traffic-vehicle-detection) | [Demo Video](https://github.com/Mukesh-2005/traffic-vehicle-detection/releases) | [Writeup](https://github.com/Mukesh-2005/traffic-vehicle-detection)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🎫 Automated Ticket Routing System ⭐ FEATURED
@@ -98,9 +127,6 @@ Mukesh = {
 🔗 [GitHub Repo](https://github.com/Mukesh-2005/Ticket-Categorizer)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 💬 Social Media API
@@ -124,6 +150,9 @@ Mukesh = {
 🔗 [GitHub Repo](https://github.com/Mukesh-2005/Social-Media-API-)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🧬 Diabetes Risk Prediction
@@ -143,31 +172,6 @@ Mukesh = {
 **Tech:** Scikit-learn | Pandas | NumPy
 
 🔗 [GitHub Repo](https://github.com/Mukesh-2005/diabetes-prediction-api)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 Task Manager API
-**Role-Based Access Control**
-
-- **Auth:** JWT token-based
-- **Security:** Password hashing
-- **Features:** CRUD, permissions, filtering
-- **Database:** SQLite with ORM
-
-**Capabilities:**
-- User authentication
-- Role-based access
-- Task management
-- Priority filtering
-- Date-based sorting
-
-**Tech:** FastAPI | SQLAlchemy | JWT | Pydantic
-
-🔗 [GitHub Repo](https://github.com/Mukesh-2005/Task_Manager_API)
 
 </td>
 <td width="50%">
@@ -335,6 +339,7 @@ My core principles:
 | 🔗 **Live API** | [Social Media API Demo](https://social-media-api-ispt.onrender.com/docs) |
 | 🚗 **Traffic Detection** | [GitHub Repo](https://github.com/Mukesh-2005/traffic-vehicle-detection) |
 | 🎫 **Ticket Routing NLP** | [GitHub Repo](https://github.com/Mukesh-2005/Ticket-Categorizer) |
+| 🏥 **Medical FHIR Pipeline** | [GitHub Repo](https://github.com/Mukesh-2005/project-3-fhir-pipeline) |
 
 </div>
 
@@ -346,11 +351,11 @@ My core principles:
 
 | Project | Type | Performance | Status |
 |:---|:---|:---:|:---:|
+| 🏥 Medical Record FHIR Pipeline | Healthcare ML | 113 FHIR resources, 100% valid | ✅ Production |
 | 🚗 Traffic Vehicle Detection | Computer Vision | mAP50: 0.749 | ✅ Production |
 | 🎫 Ticket Routing NLP | NLP / Text Classification | Accuracy: 80% | ✅ Completed |
 | 💬 Social Media API | Backend | 45+ Endpoints | 🟢 Live |
 | 🧬 Diabetes Prediction | Classification | Accuracy: 92.2% | ✅ Completed |
-| 🔐 Task Manager API | Backend | JWT + Role-Based | ✅ Completed |
 | 📚 Data Science Labs | Educational | 30+ Projects | ✅ Completed |
 
 </div>
