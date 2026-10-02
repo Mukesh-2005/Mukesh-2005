@@ -39,7 +39,6 @@ Mukesh = {
 
 ## 🏆 Highlights
 
-- 🏥 **Canonical Medical Record FHIR Pipeline** — **113 FHIR R4 resources** | 100% validation pass | End-to-end medical data structuring
 - 🤖 **Traffic Vehicle Detection** — **mAP50: 0.749** | Real-time inference (4.2ms) | 6.9x improvement
 - 🎫 **Automated Ticket Routing System** — TF-IDF + Logistic Regression NLP classifier | 80% test accuracy | production-style confidence triage
 - 🎓 **IBM Professional Data Science Certificate** — 12-course specialization (Coursera) ✅
@@ -51,31 +50,6 @@ Mukesh = {
 
 <table>
 <tr>
-<td width="50%">
-
-### 🏥 Canonical Medical Record FHIR Pipeline ⭐ LATEST
-**End-to-End FHIR R4 Structuring for Multi-Document Medical Records**
-
-- **Result:** 113 FHIR R4 resources
-- **Validation:** 100% FHIR R4 compliant
-- **Extraction:** 98 medical facts (45 conditions + 17 meds + 36 labs)
-- **Stages:** 7-stage pipeline with provenance tracking
-- **Achievement:** Production-grade data integrity + reproducibility
-
-**7 Stages:**
-1. Page classification
-2. Content extraction
-3. Entity extraction (Claude AI)
-4. Terminology normalization (100% mapped)
-5. FHIR construction + validation
-6. SQLite persistence + 5 queries
-7. Provenance tracking
-
-**Tech:** Python | Claude API | FHIR R4 | SQLite | Pydantic | PyPDF
-
-🔗 [GitHub Repo](https://github.com/Mukesh-2005/project-3-fhir-pipeline)
-
-</td>
 <td width="50%">
 
 ### 🚗 Traffic Vehicle Detection ⭐ FEATURED
@@ -101,9 +75,6 @@ Mukesh = {
 🔗 [GitHub Repo](https://github.com/Mukesh-2005/traffic-vehicle-detection) | [Demo Video](https://github.com/Mukesh-2005/traffic-vehicle-detection/releases) | [Writeup](https://github.com/Mukesh-2005/traffic-vehicle-detection)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🎫 Automated Ticket Routing System ⭐ FEATURED
@@ -127,6 +98,9 @@ Mukesh = {
 🔗 [GitHub Repo](https://github.com/Mukesh-2005/Ticket-Categorizer)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 💬 Social Media API
@@ -150,9 +124,6 @@ Mukesh = {
 🔗 [GitHub Repo](https://github.com/Mukesh-2005/Social-Media-API-)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🧬 Diabetes Risk Prediction
@@ -172,6 +143,31 @@ Mukesh = {
 **Tech:** Scikit-learn | Pandas | NumPy
 
 🔗 [GitHub Repo](https://github.com/Mukesh-2005/diabetes-prediction-api)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Task Manager API
+**Role-Based Access Control**
+
+- **Auth:** JWT token-based
+- **Security:** Password hashing
+- **Features:** CRUD, permissions, filtering
+- **Database:** SQLite with ORM
+
+**Capabilities:**
+- User authentication
+- Role-based access
+- Task management
+- Priority filtering
+- Date-based sorting
+
+**Tech:** FastAPI | SQLAlchemy | JWT | Pydantic
+
+🔗 [GitHub Repo](https://github.com/Mukesh-2005/Task_Manager_API)
 
 </td>
 <td width="50%">
@@ -260,18 +256,6 @@ Mukesh = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/Mukesh-2005?style=social&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/Mukesh-2005?style=social&label=Stars)
-![Profile Views](https://komarev.com/ghpvc/?username=Mukesh-2005&style=flat-square&color=00D4FF)
-
-</div>
-
----
-
 ## 🎓 Certifications & Education
 
 <div align="center">
@@ -287,60 +271,49 @@ Mukesh = {
 
 ---
 
-## 📚 Currently Learning
+## 📈 GitHub Analytics
 
 <div align="center">
-
-| **Area** | **Focus** |
-|:---:|:---|
-| 👁️ **Computer Vision** | Advanced YOLO, OpenCV, Image Processing |
-| 🗣️ **NLP** | Transformers, LLMs, RAG Systems |
-| 🧠 **Deep Learning** | Advanced PyTorch, Neural Architecture Design |
-| 🐳 **DevOps** | Docker, Kubernetes, CI/CD Pipelines |
-
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Mukesh-2005&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mukesh-2005&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 ---
 
-## 💡 Data Science Philosophy
+## 🔥 Contribution Activity
 
-> **Data Quality > Model Complexity**
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh-2005&hide_border=true&bg_color=0D1117&title_color=00D4FF&color=C9D1D9&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&grid=false&radius=6" alt="Contribution Activity Graph" />
+  <br/><br/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=Mukesh-2005&hide_border=true&background=0D1117&stroke=30363D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&timezone=Asia/Kolkata" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img width="100%" src="https://raw.githubusercontent.com/Mukesh-2005/Mukesh-2005/output/github-snake-dark.svg" alt="Contribution Snake" />
+</div>
 
-My core principles:
-- ✅ **EDA First** — Understand data before modeling
-- ✅ **Fix Imbalance Early** — Balance classes before upgrading models
-- ✅ **Feature Engineering > Model Size** — Smart features beat complex models
-- ✅ **End-to-End Thinking** — Production-ready from day one
-- ✅ **Iterate & Validate** — Cross-validation, not lucky splits
+---
 
-**Real Example 1 — Traffic Detection:**
-- Initial: 0.108 mAP50 (broken model)
-- Root Cause: 6.2:1 class imbalance, not model
-- Solution: Fixed data (1:1 balance)
-- Result: 0.749 mAP50 (6.9x improvement!)
+## 🗂️ GitHub Overview
 
-**Real Example 2 — Ticket Routing NLP:**
-- Initial: HR class at 0% precision and recall
-- Root Cause: Generic training phrasing overlapping with other classes, not the model
-- Solution: Rewrote HR examples with domain-distinctive vocabulary
-- Result: HR precision 0% → 85.7%
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukesh-2005&theme=github_dark&utcOffset=5.5&bg_color=0D1117&border_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&chart_color=00D4FF" alt="Productive Time" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukesh-2005&theme=github_dark&bg_color=0D1117&border_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&chart_color=00D4FF" alt="Most Commit Language" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Mukesh-2005&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/Mukesh-2005?tab=followers"><img src="https://img.shields.io/github/followers/Mukesh-2005?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00D4FF" alt="GitHub Followers" /></a>
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-
-| **Platform** | **Link** |
-|:---:|:---|
-| 💼 **LinkedIn** | [linkedin.com/in/mukesh-k](https://www.linkedin.com/in/mukesh-k-6899902b7/) |
-| 💻 **GitHub** | [github.com/Mukesh-2005](https://github.com/Mukesh-2005) |
-| 📧 **Email** | starmukesh2005@gmail.com |
-| 🔗 **Live API** | [Social Media API Demo](https://social-media-api-ispt.onrender.com/docs) |
-| 🚗 **Traffic Detection** | [GitHub Repo](https://github.com/Mukesh-2005/traffic-vehicle-detection) |
-| 🎫 **Ticket Routing NLP** | [GitHub Repo](https://github.com/Mukesh-2005/Ticket-Categorizer) |
-| 🏥 **Medical FHIR Pipeline** | [GitHub Repo](https://github.com/Mukesh-2005/project-3-fhir-pipeline) |
-
+  <a href="https://www.linkedin.com/in/mukesh-k-6899902b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+  <a href="https://github.com/Mukesh-2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:starmukesh2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://social-media-api-ispt.onrender.com/docs"><img src="https://img.shields.io/badge/Live_API_Demo-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Live API Demo" /></a>
+  <br/>
+  <a href="https://github.com/Mukesh-2005/traffic-vehicle-detection"><img src="https://img.shields.io/badge/Traffic_Detection-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Traffic Detection Repo" /></a>
+  <a href="https://github.com/Mukesh-2005/Ticket-Categorizer"><img src="https://img.shields.io/badge/Ticket_Routing_NLP-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Ticket Routing NLP Repo" /></a>
 </div>
 
 ---
@@ -351,11 +324,11 @@ My core principles:
 
 | Project | Type | Performance | Status |
 |:---|:---|:---:|:---:|
-| 🏥 Medical Record FHIR Pipeline | Healthcare ML | 113 FHIR resources, 100% valid | ✅ Production |
 | 🚗 Traffic Vehicle Detection | Computer Vision | mAP50: 0.749 | ✅ Production |
 | 🎫 Ticket Routing NLP | NLP / Text Classification | Accuracy: 80% | ✅ Completed |
 | 💬 Social Media API | Backend | 45+ Endpoints | 🟢 Live |
 | 🧬 Diabetes Prediction | Classification | Accuracy: 92.2% | ✅ Completed |
+| 🔐 Task Manager API | Backend | JWT + Role-Based | ✅ Completed |
 | 📚 Data Science Labs | Educational | 30+ Projects | ✅ Completed |
 
 </div>
