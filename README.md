@@ -283,7 +283,6 @@ Mukesh = {
 ## 🔥 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh-2005&hide_border=true&bg_color=0D1117&title_color=00D4FF&color=C9D1D9&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&grid=false&radius=6" alt="Contribution Activity Graph" />
   <br/><br/>
   <img height="180" src="https://streak-stats.demolab.com/?user=Mukesh-2005&hide_border=true&background=0D1117&stroke=30363D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&timezone=Asia/Kolkata" alt="GitHub Streak Stats" />
   <br/><br/>
